@@ -1,0 +1,22 @@
+{
+  "name": "AntiySoaTest",
+  "version": "0.1.0",
+  "summary": "A short description of AntiySoaTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PengJiang520/AntiySoaTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PengJiang520": "jiangpengyiu@foxmail.com"
+  },
+  "source": {
+    "git": "https://github.com/PengJiang520/AntiySoaTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AntiySoaTest/Classes/**/*"
+}
